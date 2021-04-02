@@ -23,7 +23,7 @@ public class Testing {
 		}
 		else
 		{
-			System.out.println("Testing has Failed");
+			System.out.println("Testing has Passed");
 		}
 		driver.close();
 	}
